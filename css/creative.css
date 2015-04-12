@@ -50,6 +50,13 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
+.jimmynovik {
+  float: left;
+  height: 200px;
+  margin-right: 10px;
+  box-shadow: 0px 0px 12px rgba(185,100,0,0.75);
+  border: 2px solid rgba(255,255,255,0.75);
+}
 
 .bg-primary {
     background-color: #f05f40;
@@ -61,6 +68,7 @@ p {
 }
 
 .text-faded {
+    text-align: left;
     color: rgba(255,255,255,.7);
 }
 

@@ -87,6 +87,12 @@ sub {
 img {
   border: 0;
 }
+
+.jimmynovik {
+  float: left;
+  height: 100px;
+  opacity: 0;
+}
 svg:not(:root) {
   overflow: hidden;
 }
