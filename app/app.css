@@ -28,3 +28,25 @@
   content: "";
   padding: 0;
 }
+
+#background {
+  background-image: url('./common/images/background.jpg');
+}
+
+#footer {
+  color: white;
+  font-weight: bold;
+}
+
+.stroke {
+  color: white!important;
+  text-shadow:
+       -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+         1px 1px 0 #000!important;
+}
+
+#about {
+  background-color: rgba(255, 255, 255, 0.9)!important;
+}

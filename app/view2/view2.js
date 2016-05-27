@@ -8,7 +8,7 @@ angular.module('myApp.view2', ['ngRoute', 'hljs'])
     tabReplace: '    '
   });
   $routeProvider.when('/view2', {
-    templateUrl: 'view2/view2.html',
+    templateUrl: '/app/view2/view2.html',
     controller: 'View2Ctrl'
   });
 }])
